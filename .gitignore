@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# private
+user_info_config.ini
+key_config.ini
+
+# experiment
+lab/
